@@ -36,11 +36,11 @@
 
 ## GitHub Stats
 
-![Geetank’s GitHub stats](https://github-readme-stats.vercel.app/api?username=afk-png&show_icons=true&theme=radical)
+![Geetank’s GitHub stats](https://github-readme-stats.vercel.app/api?username=galactic242&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afk-png&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galactic242&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afk-png&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galactic242&theme=radical)
 
 ---
 
